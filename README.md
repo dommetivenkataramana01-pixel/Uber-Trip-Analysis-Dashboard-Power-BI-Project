@@ -1,5 +1,6 @@
 # Uber-Trip-Analysis-Dashboard-Power-BI-Project
 🚖 **Uber Trip Analysis Dashboard | Power BI Project**
+"D:\xyz_heee_hee\25_oct.png"
 
 I'm excited to share my Uber Trip Analysis Dashboard, a data analytics project I developed using **Microsoft Power BI**! 📊
 
